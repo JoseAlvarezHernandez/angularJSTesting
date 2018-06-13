@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "authors": [
+    "Jose Alvarez <alvarez_3993@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.1",
+    "angular-mocks": "^1.7.1"
+  }
+}
